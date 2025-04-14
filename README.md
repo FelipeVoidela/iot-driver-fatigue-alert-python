@@ -1,4 +1,4 @@
-# 🚗 **Sistema de Alerta de Sonolência para Motoristas** 🔐
+#  **Sistema de Alerta de Sonolência para Motoristas** 🔐
 
 ## Descrição
 
@@ -6,7 +6,7 @@ O **Sistema de Alerta de Sonolência para Motoristas** é uma aplicação desenv
 
 ---
 
-## 🛠️ **Tecnologias**
+##  **Tecnologias**
 
 - **OpenCV**: Captura de vídeo e exibição em tempo real.
 - **MediaPipe**: Usado para detectar pontos faciais (malha facial) e a postura da cabeça.
@@ -14,11 +14,11 @@ O **Sistema de Alerta de Sonolência para Motoristas** é uma aplicação desenv
 
 ---
 
-## ⚙️ **Como Funciona**
+##  **Como Funciona**
 
 O sistema detecta **piscadas** dos motoristas através da análise da **Taxa de Aspect Ratio do Olho (EAR)**, utilizando a biblioteca MediaPipe. Quando o motorista pisca repetidamente ou mantém os olhos fechados por muito tempo, o sistema identifica sinais de sonolência. A **postura da cabeça** também é monitorada para garantir que o motorista esteja atento à estrada.
 
-### 🟥 **Fases de Alerta:**
+###  **Fases de Alerta:**
 
 - **LED Verde**: O motorista está alerta (sem sinais de sonolência).
 - **LED Amarelo**: O motorista está começando a mostrar sinais de sonolência.
@@ -26,7 +26,7 @@ O sistema detecta **piscadas** dos motoristas através da análise da **Taxa de 
 
 ---
 
-## 🌍 **Aplicações Reais**
+##  **Aplicações Reais**
 
 Este sistema pode ser utilizado em diversos contextos, como:
 
@@ -38,7 +38,7 @@ Esses motoristas frequentemente enfrentam longos períodos de direção, e o sis
 
 ---
 
-## 💻 **Como Rodar**
+##  **Como Rodar**
 
 ### Requisitos
 
