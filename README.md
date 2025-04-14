@@ -1,5 +1,4 @@
-#  **Sistema de Alerta de Sonolência para Motoristas** 🔐
-
+#  **Sistema de Alerta de Sonolência para Motoristas**
 ## Descrição
 
 O **Sistema de Alerta de Sonolência para Motoristas** é uma aplicação desenvolvida para **prevenir acidentes** causados por sonolência e distração no trânsito. O sistema utiliza a **detecção de piscadas** e a **postura da cabeça** para identificar sinais de **fadiga** em motoristas. Quando detecta sonolência, o sistema envia **alertas visuais** e **sonoros** através de LEDs coloridos e um buzzer para alertar o motorista, ajudando a evitar acidentes.
